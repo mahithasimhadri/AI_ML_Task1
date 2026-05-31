@@ -33,3 +33,7 @@ Titanic Dataset
 ## Output
 
 A cleaned and preprocessed Titanic dataset ready for machine learning applications.
+
+## Note
+
+If the notebook preview does not render on GitHub, please download and open the file `Task1_Data_Preprocessing.ipynb` using Jupyter Notebook.
